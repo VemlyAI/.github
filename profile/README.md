@@ -6,7 +6,7 @@ VemlyAI builds customizable AI employees that help teams automate work, support 
 
 This organization contains our backend, dashboard, SDKs, and integrations.
 
-**Website:** [https://vemly.ai](https://usevemly.com)
-**Contact:** [hello@vemly.ai](mailto:hello@usevemly.com)
+**Website:** [https://usevemly.com](https://usevemly.com)
+**Contact:** [hello@usevemly.com](mailto:hello@usevemly.com)
 
 ---
